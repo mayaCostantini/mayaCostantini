@@ -4,7 +4,7 @@
 
 💻 Associate Software Engineer at Red Hat
 
-🐍 Python, Open Source and Machine Learning
+🐍 Python and Open Source enthusiast
 
 👩‍💻 [Thoth Station](https://github.com/thoth-station) contributor
 
