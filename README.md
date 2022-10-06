@@ -2,7 +2,7 @@
 
 **About me:** 
 
-💻 Associate Software Engineer at Red Hat
+💻 Software Engineer at Red Hat
 
 🐍 Python and Open Source enthusiast
 
