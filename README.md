@@ -9,6 +9,8 @@
 👩‍💻 [Thoth Station](https://github.com/thoth-station) contributor
 
 Visit my webpage: https://mayacostantini.github.io/
+
+<a rel="me" href="https://hachyderm.io/@mayacostantini"></a>
 <!--
 **mayaCostantini/mayaCostantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
