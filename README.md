@@ -4,9 +4,9 @@
 
 💻 Software Engineer at Red Hat
 
-🐍 Python and Open Source enthusiast
+🐍 Pythonista
 
-👩‍💻 [Thoth Station](https://github.com/thoth-station) contributor
+👩‍💻 Interested in Open Source security
 
 Visit my webpage: https://mayacostantini.github.io/
 
