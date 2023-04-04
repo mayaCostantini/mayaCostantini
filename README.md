@@ -8,7 +8,9 @@
 
 👩‍💻 Interested in Open Source security
 
-Visit my webpage: https://mayacostantini.github.io/
+Personal website: https://mayacostantini.github.io/
+
+Blog: https://dev.to/mayacostantini
 
 <a rel="me" href="https://hachyderm.io/@mayacostantini"></a>
 <!--
