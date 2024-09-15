@@ -2,7 +2,7 @@
 
 **About me:** 
 
-💻 Software Engineer at Red Hat
+💻 Software Engineer at Microsoft
 
 🐍 Pythonista
 
