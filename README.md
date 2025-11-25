@@ -4,10 +4,6 @@
 
 💻 Software Engineer at Microsoft
 
-🐍 Pythonista
-
-👩‍💻 Interested in Open Source security
-
 Personal website: https://mayacostantini.github.io/
 
 Blog: https://dev.to/mayacostantini
